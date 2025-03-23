@@ -23,21 +23,20 @@
 .bg-dark-blue {
     background-color: blue;
     width: 100%;
-    min-height: 250px;
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 .bg-white   {
     background-color: white;
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 .col-large{
     width: 50%;
     background-color: blueviolet;
-    min-height: 150px;
+    min-height: 200px;
     margin: 0 auto;
-    padding: 20px;
+   
 }
   
 
@@ -54,9 +53,7 @@
     min-height: 200px;
 }
 
-.big-pink{
-    padding: 20px;
-}
+
 
 .col-30{
     width:40%;
@@ -70,9 +67,6 @@
     min-height: 200px;
 }
  
-.big-yellow{
-    padding: 20px;
-}
 
 .col-70{
     width: 75%;
@@ -81,21 +75,60 @@
 
 }
 
-.col30{
+.col-30{
     width:40%;
     background-color: aqua;
     min-height: 200px;
 }
 
-.bg-green{
-    background-color: darkgreen;
-    width: 50%;
-    min-height: 300px;
-    padding: 30px;
-    margin: 20px auto;
+.bg-grey{
+    background-color:lightgray;
+    padding: 20px 0;
 }
 
-.footer{
-    height: 20px;
-    background-color: aquamarine;
+
+.bg-green{
+    background-color: darkgreen;
+    width: 80%;
+    min-height: 400px;
+    margin: auto;
 }
+
+
+.bg-darkgrey{
+    background-color:black;
+    padding:20px 0;
+
+}
+
+.col-40pink{
+    width: 40%;
+    background-color:coral;
+    min-height: 200px;
+
+}
+
+.col-15{
+    width: 15%;
+    background-color:cornflowerblue;
+    min-height: 200px;
+}
+
+
+
+.footer{
+    padding: 20px 0 0 0;
+    background-color: black;
+}
+
+
+.button{
+    background-color: aquamarine;
+    height: 40px;
+    width: 80%;
+    margin: 0 auto;
+    padding:10px 0;
+   
+
+}
+
